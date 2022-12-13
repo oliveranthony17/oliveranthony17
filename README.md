@@ -21,4 +21,4 @@
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Native
 
-- 🇩🇪 German: A2
+- 🇩🇪 German: A2 (B1 begins 2023!)
