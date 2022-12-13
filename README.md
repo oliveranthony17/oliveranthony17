@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [TBC.com](TBC.com)
 
-- 📫 How to reach me **oliver.h.anthony@gmail.com**
+- 📫 Reach me at **oliver.h.anthony@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
