@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
-- 🔭 I’m currently working on [Migrating Mango](http://www.migratingmango.me/) - view [ReadMe](https://github.com/oliveranthony17/migrating_mango#readme)
+- 🧩 I am currently working on [Deboggle](https://www.deboggle.herokuapp.com/)
+
+- 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/)
 
 - 🌱 I’m currently learning **React** and **Django**
 
