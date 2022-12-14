@@ -7,7 +7,7 @@
 
 - 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/)
 
-- 👨‍💻 All of my projects are available at [TBC.com](TBC.com)
+- 👨‍💻 All of my projects are available at [My portfolio](https://oliveranthony17.github.io/my-portfolio/)
 
 - 📫 Reach me at **oliver.h.anthony@gmail.com**
 
