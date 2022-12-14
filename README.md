@@ -3,9 +3,9 @@
 
 - 🧩 I am currently working on [Deboggle](https://www.deboggle.herokuapp.com/)
 
-- 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/)
-
 - 🌱 I’m currently learning **React** and **Django**
+
+- 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/)
 
 - 👨‍💻 All of my projects are available at [TBC.com](TBC.com)
 
