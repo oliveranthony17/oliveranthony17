@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React** and **Django**
 
-- 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/)
+- 🥭 My most recent project was [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://oliveranthony17.github.io/my-portfolio/)
 
