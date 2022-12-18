@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
-- 🧩 I am currently working on [Deboggle](https://www.deboggle.herokuapp.com/)
+- 🎯 I am currently working on [Deboggle](https://www.deboggle.herokuapp.com/)
 
 - 🌱 I’m currently learning **React** and **Django**
 
-- 🥭 My most recent projects are: 
-  - [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
-  - [Hammer Time](https://itshammertime.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
+- 💻 My most recent projects are: 
+  - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
+  - 🛠 [Hammer Time](https://itshammertime.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
 
-- 👨‍💻 All of my projects are available at [My troopl](https://troopl.com/oliverhanthony)
+- 🚀 All of my projects are available at [My troopl](https://troopl.com/oliverhanthony)
 
 - 📫 Reach me at **oliver.h.anthony@gmail.com**
 
