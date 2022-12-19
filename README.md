@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
-- 🎯 I am currently working on [Deboggle](https://www.deboggle.herokuapp.com/)
+- 🎯 I am currently working on [DeBoggle](https://github.com/oliveranthony17/deboggle)
 
 - 🌱 I’m currently learning **React** and **Django**
 
