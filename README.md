@@ -3,7 +3,7 @@
 
 - 🎯 I am currently working on:
   - [DeBoggle](https://github.com/oliveranthony17/deboggle) which uses the React framework
-  - [House Points]() which uses the Django framework
+  - [House Points](https://github.com/oliveranthony17/House-Points) which uses the Django framework
 
 - 🌱 Through these projects I am aiming to build my knowledge of **React** and **Django**
 
