@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
-- 🎯 I am currently working on [DeBoggle](https://github.com/oliveranthony17/deboggle)
+- 🎯 I am currently working on:
+  - [DeBoggle](https://github.com/oliveranthony17/deboggle) which uses the React framework
+  - [House Points]() which uses the Django framework
 
-- 🌱 I’m currently learning **React** and **Django**
+- 🌱 Through these projects I am aiming to build my knowledge of **React** and **Django**
 
 - 💻 My most recent projects are: 
   - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
