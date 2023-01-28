@@ -2,10 +2,11 @@
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
 - 🎯 I am currently working on:
-  - [DeBoggle](https://deboggle-app.vercel.app/) (optimised for mobile) which uses the React framework - read me [here](https://github.com/oliveranthony17/deboggle)
-  - [House Points](http://3.70.131.137:8000/) which uses the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
+  - [DeBoggle](https://deboggle-app.vercel.app/) built with the React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - [House Points](http://3.70.131.137:8000/) built with the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
 
 - 🌱 Through these projects I am aiming to build my knowledge of **React** and **Django**
+- 💸 I am also learning Java / Spring and building an e-commerce app with Angular on the front end
 
 - 💻 My most recent projects are: 
   - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
@@ -14,7 +15,6 @@
 - 🚀 All of my projects are available at [My troopl](https://troopl.com/oliverhanthony)
 
 - 📫 Reach me at **oliver.h.anthony@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
