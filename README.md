@@ -10,7 +10,7 @@
 
 - 💻 My most recent projects are: 
   - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
-  - 🛠 [Hammer Time](https://itshammertime.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
+  - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
 
 - 🚀 All of my projects are available at [My troopl](https://troopl.com/oliverhanthony)
 
