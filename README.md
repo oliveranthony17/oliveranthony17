@@ -2,8 +2,8 @@
 <h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
 - 🎯 I am currently working on:
-  - [DeBoggle](https://github.com/oliveranthony17/deboggle) which uses the React framework
-  - [House Points](https://github.com/oliveranthony17/housepoints) which uses the Django framework
+  - [DeBoggle](https://deboggle-app.vercel.app/) (optimised for mobile) which uses the React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - [House Points](http://3.70.131.137:8000/) which uses the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
 
 - 🌱 Through these projects I am aiming to build my knowledge of **React** and **Django**
 
