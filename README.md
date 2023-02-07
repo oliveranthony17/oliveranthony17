@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
-<h3 align="center">A full-stack developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
+<h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
 
-- 🎯 I am currently working on:
+- 💸 I am currently learning Java / Spring and building an e-commerce app with an Angular / Spring stack
+
+- 📖 I am also reading Clean Code by Robert Cecil Martin (of course!)
+
+- 🎯 I have most recently worked on:
   - [DeBoggle](https://deboggle-app.vercel.app/) built with the React framework - read me [here](https://github.com/oliveranthony17/deboggle)
   - [House Points](https://fourforesthousepoints.herokuapp.com/) built with the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
 
-- 🌱 Through these projects I am aiming to build my knowledge of **React** and **Django**
-- 💸 I am also learning Java / Spring and building an e-commerce app with Angular on the front end
+- 🌱 Through these projects I further developed my knowledge of **React** and **Django**
 
-- 💻 My most recent projects are: 
+- 💻 My other recent projects are: 
   - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
   - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
-
-- 🚀 All of my projects are available at [My troopl](https://troopl.com/oliverhanthony)
 
 - 📫 Reach me at **oliver.h.anthony@gmail.com**
 
