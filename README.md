@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3> 
 
-- 💸 I am currently learning Java / Spring and building an e-commerce app with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ including screenshots in the readme files.
+- 💰 I am currently learning Java / Spring and building an __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots in the readme files.
 
 - 📖 I am also reading Clean Code by Robert Cecil Martin (of course!!)
 
@@ -48,6 +48,8 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/500px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> 
   </a> 
   <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/stimulus.dark.svg" alt="stimulus" width="40" height="40"/> 
   </a> 
