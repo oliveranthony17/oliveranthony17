@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
-<h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3>
+<h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3> 
 
-- 💸 I am currently learning Java / Spring and building an e-commerce app with an Angular / Spring stack
+- 💸 I am currently learning Java / Spring and building an e-commerce app with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ including screenshots in the readme files.
 
-- 📖 I am also reading Clean Code by Robert Cecil Martin (of course!)
+- 📖 I am also reading Clean Code by Robert Cecil Martin (of course!!)
 
 - 🎯 I have most recently worked on:
   - [House Points](https://fourforesthousepoints.herokuapp.com/) built with the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
