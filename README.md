@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
 <h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3> 
 
-- 💰 I am currently learning Java / Spring and building an __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots in the readme files.
+- 💰 I am currently learning Java / Spring and building an __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots within the README.md files.
 
 - 📖 I am also reading Clean Code by Robert Cecil Martin (of course!!)
 
 - 🎯 I have most recently worked on:
-  - [House Points](https://fourforesthousepoints.herokuapp.com/) built with the Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
-  - [DeBoggle](https://deboggle-app.vercel.app/) built with the React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - [House Points](https://fourforesthousepoints.herokuapp.com/) built using the Python Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
+  - [DeBoggle](https://deboggle-app.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
 
 - 🌱 Through these projects I further developed my knowledge of **React** and **Django**
 
 - 💻 My other recent projects are: 
-  - 🥭 [Migrating Mango](http://www.migratingmango.me/) - read me [here](https://github.com/oliveranthony17/migrating_mango)
-  - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
+  - 🥭 [Migrating Mango](http://www.migratingmango.me/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/migrating_mango)
+  - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
 
-- 📫 Reach me at **oliver.h.anthony@gmail.com**
+- 📫 Contact me directly at **oliver.h.anthony@gmail.com**
 
-- <p align="left">Connect with me: <a href="https://linkedin.com/in/oliveranthony17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="30" width="40" /></a></p>
+- <p align="left">🔗 Or Connect with me on LinkedIn: <a href="https://linkedin.com/in/oliveranthony17" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="25" width="25" /></a></p>
 
 
 <h1 align="center">💻 My Stack 💻</h1>
