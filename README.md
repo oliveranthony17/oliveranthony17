@@ -7,7 +7,7 @@
 
 - 🎯 I have most recently worked on:
   - [House Points](https://fourforesthousepoints.herokuapp.com/) built using the Python Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
-  - [DeBoggle](https://deboggle-app.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - [DeBoggle](https://deboggle.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
 
 - 🌱 Through these projects I further developed my knowledge of **React** and **Django**
 
