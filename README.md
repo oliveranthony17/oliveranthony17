@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
-<h3 align="center">A software developer from Manchester, England, currently living in Luzern, Switzerland.</h3> 
+<h3 align="center">A Software Engineer from Manchester, England, currently living in Luzern, Switzerland<br>and working at <a href="https://www.renuo.ch">Renuo</a> in Zürich.</h3> 
+
+<h2>Personal Projects</h2>
 
 <h3><a href="https://olbot.vercel.app/" target="_blank">View my portfolio here</a></h3>
-
-- 💰 I am currently learning Java / Spring and building an __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots within the README.md files.
-
-- 📖 I am also reading Clean Code by Robert Cecil Martin (of course!!)
 
 - 🎯 I have most recently worked on:
   - [House Points](https://fourforesthousepoints.herokuapp.com/) built using the Python Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
   - [DeBoggle](https://deboggle.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - An __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots within the README.md files.
 
 - 🌱 Through these projects I further developed my knowledge of **React** and **Django**
 
