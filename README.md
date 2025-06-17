@@ -112,4 +112,4 @@
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Native
 
-- 🇩🇪 German: A2 (B1 begins 2023!)
+- 🇩🇪 German: A2 (B1 in process ⏳)
