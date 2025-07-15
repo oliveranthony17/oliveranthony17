@@ -2,25 +2,11 @@
 <h3 align="center">A Software Engineer from Manchester, England, and living in Luzern, Switzerland for the last 3 years.</h3>
 <h3 align="center">Since 2023, I have been working at <a href="https://www.renuo.ch">Renuo</a>, a Ruby on Rails focussed software agency located in Zürich.</h3> 
 
-<h2>Personal Projects (updated 2023)</h2>
-
-<h3><a href="https://olbot.vercel.app/" target="_blank">View my portfolio here</a></h3>
-
-- 🎯 I have most recently worked on:
-  - [House Points](https://fourforesthousepoints.herokuapp.com/) built using the Python Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
-  - [DeBoggle](https://deboggle.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
-  - An __e-commerce app__ with an Angular / Spring stack - see the __Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api)__ and __Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend)__ - including screenshots within the README.md files.
-
-- 🌱 Through these projects I further developed my knowledge of **React** and **Django**
-
-- 💻 My other recent projects are: 
-  - 🥭 [Migrating Mango](http://www.migratingmango.me/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/migrating_mango)
-  - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
+<h3 align="center"><a href="https://olbot.vercel.app/" target="_blank">View my portfolio here</a></h3>
 
 - 📫 Contact me directly at **oliver.h.anthony@gmail.com**
 
-- <p align="left">🔗 Or Connect with me on LinkedIn: <a href="https://linkedin.com/in/oliveranthony17" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="25" width="25" /></a></p>
-
+- <p align="left">🔗 Or Connect with me on LinkedIn: <a href="https://linkedin.com/in/oliveranthony17" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="15" width="15" /></a></p>
 
 <h1 align="center">💻 My Stack 💻</h1>
 
@@ -78,7 +64,7 @@
   
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="AWS" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> 
   </a> 
   <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="vercel" width="40" height="40"/> 
   </a> 
@@ -98,10 +84,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/240px-Npm-logo.svg.png" alt="npm" width="40" height="40"/> 
   </a> 
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://p1.hiclipart.com/preview/1012/797/240/javascript-logo-npm-package-manager-nodejs-installation-yarn-github-bower-png-clipart.jpg" alt="yarn" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> 
   </a> 
   <a href="https://pypi.org/project/pip/" target="_blank" rel="noreferrer"> 
-    <img src="https://pypi.org/static/images/logo-small.2a411bc6.svg" alt="pip" width="40" height="40"/> 
+    <img src="https://www.telecomhall.net/uploads/db2683/original/2X/9/93768e7290bc8c8473a02561ac4e608642cfbaca.png" alt="pip" width="40" height="40"/> 
   </a> 
   <a href="https://brew.sh/" target="_blank" rel="noreferrer"> 
     <img src="https://brew.sh/assets/img/homebrew-256x256.png" alt="brew" width="40" height="40"/> 
@@ -114,3 +100,16 @@
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Native
 
 - 🇩🇪 German: B1 (in process ⏳)
+
+<h1 align="center">💼 Personal Projects (updated 2023) 💼</h1>
+
+- 🎯 I have most recently worked on:
+  - [House Points](https://fourforesthousepoints.herokuapp.com/) built using the Python Django framework - read me [here](https://github.com/oliveranthony17/housepoints)
+  - [DeBoggle](https://deboggle.vercel.app/) built using the JS React framework - read me [here](https://github.com/oliveranthony17/deboggle)
+  - An e-commerce app with an Angular / Spring stack - see the Java backend [here](https://github.com/oliveranthony17/ecommerce-app-java-rest-api) and Angular frontend [here](https://github.com/oliveranthony17/ecommerce-app-angular-frontend) - including screenshots within the README.md files.
+
+- 🌱 Through these projects I further developed my knowledge of **React** and **Django**
+
+- 💻 My other recent projects are: 
+  - 🥭 [Migrating Mango](http://www.migratingmango.me/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/migrating_mango)
+  - 🛠 [Hammer Time](https://hammer-time.herokuapp.com/) built using Ruby on Rails - read me [here](https://github.com/oliveranthony17/hammer-time-clone)
