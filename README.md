@@ -113,4 +113,4 @@
 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Native
 
-- 🇩🇪 German: A2 (B1 in process ⏳)
+- 🇩🇪 German: B1 (in process ⏳)
