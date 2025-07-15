@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oliver!</h1>
-<h3 align="center">A Software Engineer from Manchester, England, currently living in Luzern, Switzerland<br>and working at <a href="https://www.renuo.ch">Renuo</a> in Zürich.</h3> 
+<h3 align="center">A Software Engineer from Manchester, England, and living in Luzern, Switzerland for the last 3 years.</h3>
+<h3 align="center">Since 2023, I have been working at <a href="https://www.renuo.ch">Renuo</a>, a Ruby on Rails focussed software agency located in Zürich.</h3> 
 
-<h2>Personal Projects</h2>
+<h2>Personal Projects (updated 2023)</h2>
 
 <h3><a href="https://olbot.vercel.app/" target="_blank">View my portfolio here</a></h3>
 
